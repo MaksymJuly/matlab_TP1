@@ -12,7 +12,9 @@ geométricas são translações e rotações a 3D.
 Descrição
 
 As peças possíveis são dos seguintes tipos que se distinguem pelo número assinalado:
+
 ![image](https://github.com/user-attachments/assets/09eb28e2-5df7-4232-929d-99d1c9fff826)
+
 As peças devem iniciar o seu movimento na posição do canto superior esquerdo de uma grelha
 tridimensional com uma base de 6×6 células e uma altura de 8 células. O movimento deve ser feito
 de forma a ir criando camadas de peças assentes sobre a base da grelha tri-dimensional. As peças
@@ -20,9 +22,13 @@ podem ser colocadas em qualquer posição sobre uma face plana, e alinhadas com 
 grelha, mas não podem ultrapassar os limites da grelha. A figura seguinte ilustra uma situação em
 que a peça (1) entrou em cena e algumas peças já estão colocadas na grelha como resultado de
 movimentações anteriores (o exemplo ilustrado é arbitrário).
+
 ![image](https://github.com/user-attachments/assets/7db47cf4-54a7-421f-b7b7-8f02771190df)
+
 As restantes peças iniciam o seu movimento nas seguintes configurações respetivamente:
+
 ![image](https://github.com/user-attachments/assets/fc6d2d77-d247-4513-b2a9-acbbd4927c0c)
+
 
 Funcionamento
 
